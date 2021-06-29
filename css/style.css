@@ -17,7 +17,7 @@ header {
 
 /* <!-- intestazione --> */
 .barcerchi {
-    padding-left: 1400px;
+    padding-left: 1600px;
 }
 
 .barcerchi ul, 
@@ -26,7 +26,7 @@ header {
     height: 60px;
     margin-left: 25px;
     margin-right: 25px;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: 30px;
 }
 
@@ -44,6 +44,7 @@ header {
     line-height: 70px;
     text-align: center;
     font-size: 30px;
+    box-shadow: 2px 2px 4px #00000050;
 }
 
 
