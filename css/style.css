@@ -38,10 +38,12 @@ header {
     margin-right: 0px;
 }
 
-.numberUno, .numberDue, .numberTre {
+.numberUno,
+.numberDue,
+.numberTre {
     display: inline-block;
     background-color: white;
-    color: black;
+    /* color: black; */
     border-radius: 80%;
     height: 70px;
     width: 70px;
@@ -55,8 +57,10 @@ header {
 
 
 /* effetto hover */
-.barcerchi li:hover {
-    border-bottom: 3px solid rgb(255, 0, 0) ;
+.numberUno:hover,
+.numberDue:hover,
+.numberTre:hover {
+    background-color: blanchedalmond;
 }
 
 
