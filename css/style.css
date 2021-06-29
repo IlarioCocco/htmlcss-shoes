@@ -9,6 +9,8 @@
     background-color: red
 } */
 
+
+
 header {
     background-color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -17,7 +19,10 @@ header {
 
 /* <!-- intestazione --> */
 .barcerchi {
-    padding-left: 1600px;
+    /* padding-left: 1600px; */
+    position: fixed;
+    right: 0;
+    z-index: 2;
 }
 
 .barcerchi ul, 
@@ -31,7 +36,7 @@ header {
 }
 
 .barcerchi li:last-child {
-    margin-right: 0;
+    margin-right: 0px;
 }
 
 .number {
@@ -46,6 +51,12 @@ header {
     font-size: 30px;
     box-shadow: 2px 2px 4px #00000050;
 }
+
+
+
+
+
+/* effetto hover */
 
 
 
