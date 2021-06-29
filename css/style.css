@@ -18,7 +18,7 @@ header {
 section {
     height: 100vh;
     position: relative;
-    padding: ;
+    padding: 50px;
 }
 
 .red {
@@ -34,6 +34,9 @@ section {
 }
 
 .textyellow, .textgreen {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 55px;
     text-transform: uppercase;
     color: yellow
 }
