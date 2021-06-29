@@ -10,12 +10,22 @@
 } */
 
 
+
+
+/* <!-- main img scarpe su 3 livelli --> */
 section {
     height: 100vh;
 }
 
+.red {
+    background-color: red;
+}
 
+.green {
+    background-color: green;
+}
 
-
-/* <!-- main img scarpe su 3 livelli --> */
+.yellow {
+    background-color: yellow;
+}
 
