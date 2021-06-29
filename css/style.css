@@ -19,7 +19,6 @@ header {
 
 /* <!-- intestazione --> */
 .barcerchi {
-    /* padding-left: 1600px; */
     position: fixed;
     right: 0;
     z-index: 2;
@@ -31,7 +30,7 @@ header {
     height: 60px;
     margin-left: 25px;
     margin-right: 25px;
-    margin-top: 15px;
+    margin-top: 30px;
     margin-bottom: 30px;
 }
 
