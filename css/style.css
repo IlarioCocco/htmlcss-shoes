@@ -16,14 +16,13 @@ html {
 }
 
 
+/* <!-- intestazione con numeri --> */
 header {
     background-color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
 }
 
-
-/* <!-- intestazione con numeri --> */
 .barcerchi {
     position: fixed;
     right: 0;
